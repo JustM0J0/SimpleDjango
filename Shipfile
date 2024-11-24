@@ -1,2 +1,2 @@
 script: python manage.py makemigrations
-run: python manage.py runserver 0.0.0.0:8500
+run: python manage.py runserver 0.0.0.0:9500
